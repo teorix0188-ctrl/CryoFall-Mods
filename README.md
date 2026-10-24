@@ -22,6 +22,8 @@
 
 To update — download again and run the installer. / Обновить — скачай снова и запусти установщик.
 
+📝 **[What's new / Что нового](CHANGELOG.md)**
+
 ---
 
 ## 📦 What's inside
@@ -41,7 +43,7 @@ To update — download again and run the installer. / Обновить — ск�
 
 **Automation**
 - **Automaton** (by Djekke) – auto gather, mine, chop, fish, detector, drones and more.
-- **Quick Stash** – walk past your crates and items go into the crates that already hold the same thing; "magnet" crates and vehicles keep a set amount of chosen items.
+- **Quick Stash** – walk past your crates and items go into the crates that already hold the same thing; "magnet" crates and vehicles keep a set amount of chosen items; padlocks pin items to their slots.
 - **Auto Drop** – throws away the junk you've marked.
 - **Auto Production** – stand next to a furnace or machine: it takes the output and adds ingredients and fuel; can top up furnaces while they work.
 - **Pinned Recipes** – pin a recipe, ingredient counters on screen.
@@ -51,7 +53,7 @@ To update — download again and run the installer. / Обновить — ск�
 
 **Vehicles**
 - **Garage** – pin vehicle parts and repair materials, garage tabs by type, all your vehicles on the map, "Unload loot" and an auto loot collector.
-- **Loadout** – one-click kits in the vehicle window (radiation, pragmium, loot, combat, farm, volcano); put on, hand back, share kits with your clan.
+- **Loadout** – up to 6 one-click kits, each living in its own vehicle; kit menu on Y, missing items taken from other vehicles, "Home" returns everything; share kits with your clan.
 
 ## 📦 Что внутри
 
@@ -70,7 +72,7 @@ To update — download again and run the installer. / Обновить — ск�
 
 **Автоматизация**
 - **Automaton** (автор Djekke) – авто-сбор, добыча, рубка, рыбалка, детектор, дроны и другое.
-- **Раскладка по ящикам** – проходишь мимо — вещи уходят в ящики, где такие уже лежат; «магнит» у ящика и транспорта держит заданное количество.
+- **Раскладка по ящикам** – проходишь мимо — вещи уходят в ящики, где такие уже лежат; «магнит» у ящика и транспорта держит заданное количество; замочки закрепляют вещи за ячейками.
 - **Автосброс** – выбрасывает отмеченный мусор.
 - **Автопроизводство** – встал у печи или станка — забрал готовое, доложил сырьё и топливо; может докладывать на ходу.
 - **Закреплённые рецепты** – рецепт со счётчиками на экране.
@@ -80,7 +82,7 @@ To update — download again and run the installer. / Обновить — ск�
 
 **Транспорт**
 - **Гараж** – закрепить детали и ремонт, вкладки по типам, весь транспорт на карте, «Выгрузить лут» и сборщик лута.
-- **Снаряжение** – наборы одной кнопкой в окне транспорта (радиация, прагмий, лут, бой, фарм, вулкан); надеть, сдать, общие наборы клана.
+- **Снаряжение** – до 6 наборов одной кнопкой, у каждого свой транспорт; меню наборов по Y, недостающее добирается из других транспортов, «Домой» всё развозит; общие наборы клана.
 
 ---
 
