@@ -5,6 +5,16 @@ Newest update on top. To update: download the installer again and run it.
 
 # 🇬🇧 English
 
+## 24.10.2026, evening
+
+**TeorixKit quests (new mod)**
+- A new "TeorixKit quests" tab in the game quests window: tasks that teach how to use the mods step by step — what to press and why.
+- Only the quests of the mods you have are shown. The completed ones go to the "Completed quests" tab.
+
+**Other**
+- Recipe on F2: point the mouse at an item (or an ingredient, or a building in the build menu) and press F2.
+- Map markers, Recipe on F2 and Automaton now work together with the TeorixKit core — the installer adds it by itself.
+
 ## 24.10.2026
 
 **Slot pins (Quick Stash)**
@@ -37,6 +47,16 @@ Newest update on top. To update: download the installer again and run it.
 - Auto Drop: if the next pile cannot take the item, it is dropped under you.
 
 # 🇷🇺 Русский
+
+## 24.10.2026, вечер
+
+**Квесты TeorixKit (новый мод)**
+- В окне квестов игры новая вкладка «Квесты TeorixKit»: задания, которые по шагам учат пользоваться модами — что нажать и зачем это нужно.
+- Видны квесты только тех модов, что у тебя стоят. Выполненные уходят во вкладку «Выполненные квесты».
+
+**Прочее**
+- Рецепт по F2: наведи мышь на предмет (или на ингредиент, или на постройку в меню строительства) и нажми F2.
+- Метки на карте, Рецепт по F2 и Automaton теперь работают вместе с ядром TeorixKit — установщик ставит его сам.
 
 ## 24.10.2026
 

@@ -40,6 +40,7 @@ To update — download again and run the installer. / Обновить — ск�
 - **Visible Loot** – loot bags, craters, meteorites and debris are easy to spot.
 - **Night** – night as in the game, half as dark, no night, or always night.
 - **Night Vision** – calm pale green night vision instead of the bright green/purple.
+- **TeorixKit quests** – a tab in the game quests window with tasks that teach how to use each mod.
 
 **Automation**
 - **Automaton** (by Djekke) – auto gather, mine, chop, fish, detector, drones and more.
@@ -69,6 +70,7 @@ To update — download again and run the installer. / Обновить — ск�
 - **Заметный лут** – мешки, кратеры, метеориты, обломки хорошо видно.
 - **Ночь** – как в игре, наполовину светлее, без ночи или всегда ночь.
 - **Ночное зрение** – спокойное бледно-зелёное вместо яркого.
+- **Квесты TeorixKit** – вкладка в окне квестов игры: задания, которые учат пользоваться каждым модом.
 
 **Автоматизация**
 - **Automaton** (автор Djekke) – авто-сбор, добыча, рубка, рыбалка, детектор, дроны и другое.
