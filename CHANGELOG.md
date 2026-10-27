@@ -5,6 +5,12 @@ Newest update on top. To update: download the installer again and run it.
 
 # 🇬🇧 English
 
+## 28.10.2026
+
+**Installer**
+- A new main menu item **7. From this PC**: install or switch on downloaded mods — pick a folder with .mpk or .zip files. The game Mods folder works too: a mod lying there but switched off is now found and switched on.
+- "Disable all mods" is item 8 now.
+
 ## 27.10.2026
 
 **Server mods (a new installer section, item 6)**
@@ -53,6 +59,12 @@ Newest update on top. To update: download the installer again and run it.
 - Auto Drop: if the next pile cannot take the item, it is dropped under you.
 
 # 🇷🇺 Русский
+
+## 28.10.2026
+
+**Установщик**
+- В главном меню новый пункт **7. С компьютера**: установить или включить скачанные моды — выбираешь папку с .mpk или .zip. Подойдёт и папка Mods самой игры: мод, который лежит там, но выключен, установщик теперь видит и включает.
+- «Выключить все моды» теперь пункт 8.
 
 ## 27.10.2026
 
