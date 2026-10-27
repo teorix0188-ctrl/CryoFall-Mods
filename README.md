@@ -56,6 +56,9 @@ To update — download again and run the installer. / Обновить — ск�
 - **Garage** – pin vehicle parts and repair materials, garage tabs by type, all your vehicles on the map, "Unload loot" and an auto loot collector.
 - **Loadout** – up to 6 one-click kits, each living in its own vehicle; kit menu on Y, missing items taken from other vehicles, "Home" returns everything; share kits with your clan.
 
+**Server mods** (only for your own game or your own server)
+- **Ore extractor** – a new building: extracts lithium salts, stone, sand, iron, copper or coal, 500 per hour; sometimes gold and gemstones.
+
 ## 📦 Что внутри
 
 **Карта и информация**
@@ -85,6 +88,9 @@ To update — download again and run the installer. / Обновить — ск�
 **Транспорт**
 - **Гараж** – закрепить детали и ремонт, вкладки по типам, весь транспорт на карте, «Выгрузить лут» и сборщик лута.
 - **Снаряжение** – до 6 наборов одной кнопкой, у каждого свой транспорт; меню наборов по Y, недостающее добирается из других транспортов, «Домой» всё развозит; общие наборы клана.
+
+**Серверные моды** (только для своей игры или своего сервера)
+- **Рудный экстрактор** – новое здание: добывает соль лития, камень, песок, железо, медь или уголь, 500 в час; иногда золото и самоцветы.
 
 ---
 

@@ -5,6 +5,12 @@ Newest update on top. To update: download the installer again and run it.
 
 # 🇬🇧 English
 
+## 27.10.2026
+
+**Server mods (a new installer section, item 6)**
+- **Ore extractor**: a new building "Electric ore extractor". Learned together with the advanced lithium extractor, the same price. Choose what it extracts — lithium salts, stone, sand, iron, copper or coal, 500 per hour; sometimes gold, rarely gemstones. The building takes the color of its ore.
+- A server mod: only for your own game or your own server. Switch it off before joining another server.
+
 ## 24.10.2026, evening
 
 **TeorixKit quests (new mod)**
@@ -47,6 +53,12 @@ Newest update on top. To update: download the installer again and run it.
 - Auto Drop: if the next pile cannot take the item, it is dropped under you.
 
 # 🇷🇺 Русский
+
+## 27.10.2026
+
+**Серверные моды (новый раздел в установщике, пункт 6)**
+- **Рудный экстрактор**: новое здание «Электрический рудный экстрактор». Изучается вместе с продвинутым экстрактором лития, стоит столько же. Выбираешь, что добывать — соль лития, камень, песок, железо, медь или уголь, 500 в час; иногда выпадает золото, редко — самоцветы. Цвет здания — под руду.
+- Это мод сервера: только для своей игры или своего сервера. Перед входом на чужой сервер выключи его.
 
 ## 24.10.2026, вечер
 
