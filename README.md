@@ -58,6 +58,11 @@ To update — download again and run the installer. / Обновить — ск�
 
 **Server mods** (only for your own game or your own server)
 - **Ore extractor** – a new building: extracts lithium salts, stone, sand, iron, copper or coal, 500 per hour; sometimes gold and gemstones.
+- **Infestation and rocket-bomb** (needs Improved PvE) – a hive in a boss arena and foci all over the map: psi, radiation, mobs, infested heaps, King hearts; the rocket-bomb from the tech tree destroys the hive and raises skills below 20 to 20; then the event "Pragmium echo".
+- **Boss statues** – statues of the Pragmium Queen and the Keinite Tyrant, +100 faction score each.
+- **Wide safe** – an armored safe 2×1 with 88 slots.
+- **Light mode "At night"** – lamps on all night, off by day.
+- **Own server** – boss tests in your own local game.
 
 ## 📦 Что внутри
 
@@ -91,6 +96,11 @@ To update — download again and run the installer. / Обновить — ск�
 
 **Серверные моды** (только для своей игры или своего сервера)
 - **Рудный экстрактор** – новое здание: добывает соль лития, камень, песок, железо, медь или уголь, 500 в час; иногда золото и самоцветы.
+- **Заражение и ракета-бомба** (нужен Improved PvE) – улей на арене боссов и очаги по всей карте: пси, радиация, мобы, заражённые кучки, сердца Короля; ракета-бомба из технологий уничтожает улей и поднимает навыки ниже 20 до 20; потом событие «Эхо прагмия».
+- **Статуи боссов** – статуи прагмиевой королевы и кейнитового тирана, +100 к счёту фракции каждая.
+- **Широкий сейф** – бронированный сейф 2×1 на 88 ячеек.
+- **Свет «Ночью»** – лампы горят всю ночь, гаснут днём.
+- **Свой сервер** – тест боссов в своей локальной игре.
 
 ---
 

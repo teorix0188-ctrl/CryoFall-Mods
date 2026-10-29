@@ -5,6 +5,14 @@ Newest update on top. To update: download the installer again and run it.
 
 # 🇬🇧 English
 
+## 29.10.2026
+
+**Server mods** — the installer section (item 6) now holds every mod that must also be on the server. They are only for your own game or your own server: switch them off before joining another server.
+- **Infestation and rocket-bomb** (new, needs Improved PvE): a hive in a boss arena — while it lives, the Pragmium King does not come. Foci of levels 1–5 all over the map: psi, radiation on levels 4–5, mobs, infested heaps (mined only by the Crusher pragmium axe), King hearts from the big mobs. The rocket-bomb from the tech tree (T6 Escape) destroys the hive and raises every skill below 20 to 20. Then the foci return as the event "Pragmium echo".
+- **Boss statues** (new): statues of the Pragmium Queen and the Keinite Tyrant, each +100 to the faction score.
+- **Wide safe** (new): an armored safe 2×1 with 88 slots.
+- **Light mode "At night"** (new): lamps get the mode "At night" — on all night, off by day.
+- **"Own server"** (boss test) moved here from the TeorixKit section.
 ## 28.10.2026
 
 **Installer**
@@ -60,6 +68,14 @@ Newest update on top. To update: download the installer again and run it.
 
 # 🇷🇺 Русский
 
+## 29.10.2026
+
+**Серверные моды** — в разделе установщика (пункт 6) теперь все моды, которые должны стоять и на сервере. Они только для своей игры или своего сервера: перед входом на чужой сервер выключи их.
+- **Заражение и ракета-бомба** (новый, нужен Improved PvE): улей на арене боссов — пока он жив, Король прагмия не приходит. По всей карте очаги 1–5 уровня: пси, радиация на 4–5 уровнях, мобы, заражённые кучки (их добывает только прагмиевый топор Крушителя), сердца Короля с больших мобов. Ракета-бомба из технологий (T6 «Побег») уничтожает улей и поднимает навыки ниже 20 до 20. Потом очаги возвращаются событием «Эхо прагмия».
+- **Статуи боссов** (новый): статуи прагмиевой королевы и кейнитового тирана, каждая +100 к счёту фракции.
+- **Широкий сейф** (новый): бронированный сейф 2×1 на 88 ячеек.
+- **Свет «Ночью»** (новый): у ламп режим «Ночью» — горят всю ночь, гаснут днём.
+- **«Свой сервер»** (тест боссов) перенесён сюда из раздела TeorixKit.
 ## 28.10.2026
 
 **Установщик**
